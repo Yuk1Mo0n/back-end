@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\04-Funcao-While\obj\Debug\net7.0\04-Funcao-While.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\04-Funcao-While\obj\Debug\net7.0\04-Funcao-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\04-Funcao-While\obj\Debug\net7.0\04-Funcao-While.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\04-Funcao-While\obj\Debug\net7.0\04-Funcao-While.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\04-Funcao-While\obj\Debug\net7.0\04-Funcao-While.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\04-Funcao-While\bin\Debug\net7.0\04-Funcao-While.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\04-Funcao-While\bin\Debug\net7.0\04-Funcao-While.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\04-Funcao-While\bin\Debug\net7.0\04-Funcao-While.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\04-Funcao-While\bin\Debug\net7.0\04-Funcao-While.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\04-Funcao-While\bin\Debug\net7.0\04-Funcao-While.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\04-Funcao-While\obj\Debug\net7.0\04-Funcao-While.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\04-Funcao-While\obj\Debug\net7.0\refint\04-Funcao-While.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\04-Funcao-While\obj\Debug\net7.0\04-Funcao-While.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\04-Funcao-While\obj\Debug\net7.0\04-Funcao-While.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\04-Funcao-While\obj\Debug\net7.0\ref\04-Funcao-While.dll

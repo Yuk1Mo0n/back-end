@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\07-Classes-Objetos\obj\Debug\net7.0\07-Classes-Objetos.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\07-Classes-Objetos\obj\Debug\net7.0\07-Classes-Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\07-Classes-Objetos\obj\Debug\net7.0\07-Classes-Objetos.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\07-Classes-Objetos\obj\Debug\net7.0\07-Classes-Objetos.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\07-Classes-Objetos\obj\Debug\net7.0\07-Classes-Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\07-Classes-Objetos\bin\Debug\net7.0\07-Classes-Objetos.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\07-Classes-Objetos\bin\Debug\net7.0\07-Classes-Objetos.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\07-Classes-Objetos\bin\Debug\net7.0\07-Classes-Objetos.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\07-Classes-Objetos\bin\Debug\net7.0\07-Classes-Objetos.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\07-Classes-Objetos\bin\Debug\net7.0\07-Classes-Objetos.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\07-Classes-Objetos\obj\Debug\net7.0\07-Classes-Objetos.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\07-Classes-Objetos\obj\Debug\net7.0\refint\07-Classes-Objetos.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\07-Classes-Objetos\obj\Debug\net7.0\07-Classes-Objetos.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\07-Classes-Objetos\obj\Debug\net7.0\07-Classes-Objetos.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\07-Classes-Objetos\obj\Debug\net7.0\ref\07-Classes-Objetos.dll

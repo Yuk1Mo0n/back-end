@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\11-Classes-Anonimas\obj\Debug\net7.0\11-Classes-Anonimas.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\11-Classes-Anonimas\obj\Debug\net7.0\11-Classes-Anonimas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\11-Classes-Anonimas\obj\Debug\net7.0\11-Classes-Anonimas.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\11-Classes-Anonimas\obj\Debug\net7.0\11-Classes-Anonimas.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\11-Classes-Anonimas\obj\Debug\net7.0\11-Classes-Anonimas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\11-Classes-Anonimas\bin\Debug\net7.0\11-Classes-Anonimas.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\11-Classes-Anonimas\bin\Debug\net7.0\11-Classes-Anonimas.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\11-Classes-Anonimas\bin\Debug\net7.0\11-Classes-Anonimas.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\11-Classes-Anonimas\bin\Debug\net7.0\11-Classes-Anonimas.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\11-Classes-Anonimas\bin\Debug\net7.0\11-Classes-Anonimas.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\11-Classes-Anonimas\obj\Debug\net7.0\11-Classes-Anonimas.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\11-Classes-Anonimas\obj\Debug\net7.0\refint\11-Classes-Anonimas.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\11-Classes-Anonimas\obj\Debug\net7.0\11-Classes-Anonimas.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\11-Classes-Anonimas\obj\Debug\net7.0\11-Classes-Anonimas.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\11-Classes-Anonimas\obj\Debug\net7.0\ref\11-Classes-Anonimas.dll

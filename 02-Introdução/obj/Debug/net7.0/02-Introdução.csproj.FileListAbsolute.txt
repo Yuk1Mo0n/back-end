@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\02-Introdução\bin\Debug\net7.0\02-Introdução.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\02-Introdução\bin\Debug\net7.0\02-Introdução.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\02-Introdução\bin\Debug\net7.0\02-Introdução.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\02-Introdução\bin\Debug\net7.0\02-Introdução.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\02-Introdução\bin\Debug\net7.0\02-Introdução.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\02-Introdução\obj\Debug\net7.0\02-Introdução.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\02-Introdução\obj\Debug\net7.0\02-Introdução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\02-Introdução\obj\Debug\net7.0\02-Introdução.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\02-Introdução\obj\Debug\net7.0\02-Introdução.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\02-Introdução\obj\Debug\net7.0\02-Introdução.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\02-Introdução\obj\Debug\net7.0\02-Introdução.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\02-Introdução\obj\Debug\net7.0\refint\02-Introdução.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\02-Introdução\obj\Debug\net7.0\02-Introdução.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\02-Introdução\obj\Debug\net7.0\02-Introdução.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\02-Introdução\obj\Debug\net7.0\ref\02-Introdução.dll

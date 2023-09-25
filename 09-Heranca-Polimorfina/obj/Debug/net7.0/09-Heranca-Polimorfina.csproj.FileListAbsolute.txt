@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\09-Heranca-Polimorfina\bin\Debug\net7.0\09-Heranca-Polimorfina.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\09-Heranca-Polimorfina\bin\Debug\net7.0\09-Heranca-Polimorfina.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\09-Heranca-Polimorfina\bin\Debug\net7.0\09-Heranca-Polimorfina.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\09-Heranca-Polimorfina\bin\Debug\net7.0\09-Heranca-Polimorfina.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\09-Heranca-Polimorfina\bin\Debug\net7.0\09-Heranca-Polimorfina.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\09-Heranca-Polimorfina\obj\Debug\net7.0\09-Heranca-Polimorfina.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\09-Heranca-Polimorfina\obj\Debug\net7.0\09-Heranca-Polimorfina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\09-Heranca-Polimorfina\obj\Debug\net7.0\09-Heranca-Polimorfina.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\09-Heranca-Polimorfina\obj\Debug\net7.0\09-Heranca-Polimorfina.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\09-Heranca-Polimorfina\obj\Debug\net7.0\09-Heranca-Polimorfina.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\09-Heranca-Polimorfina\obj\Debug\net7.0\09-Heranca-Polimorfina.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\09-Heranca-Polimorfina\obj\Debug\net7.0\refint\09-Heranca-Polimorfina.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\09-Heranca-Polimorfina\obj\Debug\net7.0\09-Heranca-Polimorfina.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\09-Heranca-Polimorfina\obj\Debug\net7.0\09-Heranca-Polimorfina.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\09-Heranca-Polimorfina\obj\Debug\net7.0\ref\09-Heranca-Polimorfina.dll

@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\13-Atividade-Avaliativa\obj\Debug\net7.0\13-Atividade-Avaliativa.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\13-Atividade-Avaliativa\obj\Debug\net7.0\13-Atividade-Avaliativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\13-Atividade-Avaliativa\obj\Debug\net7.0\13-Atividade-Avaliativa.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\13-Atividade-Avaliativa\obj\Debug\net7.0\13-Atividade-Avaliativa.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\13-Atividade-Avaliativa\obj\Debug\net7.0\13-Atividade-Avaliativa.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\13-Atividade-Avaliativa\bin\Debug\net7.0\13-Atividade-Avaliativa.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\13-Atividade-Avaliativa\bin\Debug\net7.0\13-Atividade-Avaliativa.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\13-Atividade-Avaliativa\bin\Debug\net7.0\13-Atividade-Avaliativa.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\13-Atividade-Avaliativa\bin\Debug\net7.0\13-Atividade-Avaliativa.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\13-Atividade-Avaliativa\bin\Debug\net7.0\13-Atividade-Avaliativa.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\13-Atividade-Avaliativa\obj\Debug\net7.0\13-Atividade-Avaliativa.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\13-Atividade-Avaliativa\obj\Debug\net7.0\refint\13-Atividade-Avaliativa.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\13-Atividade-Avaliativa\obj\Debug\net7.0\13-Atividade-Avaliativa.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\13-Atividade-Avaliativa\obj\Debug\net7.0\13-Atividade-Avaliativa.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2°semestre\back-end\13-Atividade-Avaliativa\obj\Debug\net7.0\ref\13-Atividade-Avaliativa.dll
